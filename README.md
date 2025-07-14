@@ -106,14 +106,14 @@ I’m a software engineer at Yandex specializing in Android app development📱.
 </p>
 </details>
 
-<details> 
+<!-- <details> 
 <summary>My Sertificates</summary>
 <p>
 <a href="https://park.vk.company/curriculum/certificates/download/2187/efc3567f-0e7d-4117-a290-c0606078cbab/"><img src="https://user-images.githubusercontent.com/57148020/137030313-e7387255-31f3-4b7a-9c8c-92991d390b20.jpg" height="300px"></a>
 <a href="https://gb.ru/certificates/1484701"><img src="https://user-images.githubusercontent.com/57148020/164464982-f2eb7f75-767c-4ba4-8a50-bc7e9f98b90d.png"  height="300px"></a>
 </p>
 </details>
-
+-->
 <p>
 <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=DronPascal&color=yellow"/></a>
 <a href="#"><img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DronPascal?color=blueviolet&logo=github&label=Followers"/></a>
