@@ -4,7 +4,7 @@ Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 </h3>
 
 <p align="center">
-<a href="https://t.me/andrew_work"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-@andrew\_work-0088CC?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/andrew_work"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-@andrew_work-0088CC?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:pascalandrei16@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-pascalandrei16@gmail.com-fc3f1d?style=flat&logo=Gmail&logoColor=white"/></a>
 <!--
 <a href="mailto:appascalus@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-appascalus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
